@@ -1,0 +1,14 @@
+# Manual to play Tic Tac Toe with AI
+
+positions on the board are like this so play accordingly
+
+            1 |  2  |  3
+              |     | 
+           --------------
+            4 |  5  |  6
+              |     |    
+           --------------
+            7 |  8  |  9
+              |     |
+
+
